@@ -1,13 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap");
 
 @font-face {
-  font-family: "Droid";
-  src: url("assets/fonts/Droid-Serif.woff2") format("truetype");
-  font-weight: 100;
-  font-style: normal;
-}
-
-@font-face {
   font-family: "Aileron";
   src: url("assets/fonts/Aileron-Regular.woff2") format("truetype");
   font-weight: 100;
@@ -15,15 +8,8 @@
 }
 
 @font-face {
-  font-family: "Eyesome";
-  src: url("assets/fonts/EyesomeScript.woff2") format("truetype");
-  font-weight: 100;
-  font-style: normal;
-}
-
-@font-face {
   font-family: "Stigsa";
-  src: url("assets/fonts/StigsaDisplay-Medium.ttf") format("truetype");
+  src: url("assets/fonts/StigsaDisplay-Medium.woff2") format("truetype");
   font-weight: 100;
   font-style: normal;
 }
