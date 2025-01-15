@@ -18,9 +18,9 @@ body {
   background: linear-gradient(to top, #9c788a, #8277a3);
   color: #f4f0f7;
   font-family: Aileron;
-  min-height: 100vh; /* Updated */
+  min-height: 100vh; 
   margin: 0;
-  overflow: hidden; /* Optional, remove if not needed */
+  overflow: hidden; 
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -118,14 +118,14 @@ body {
     margin: auto;
     width: 99%;
     height: 1px;
-    background-color: #f4f0f7; /* Change to preferred color */
+    background-color: #f4f0f7; 
   }
 
   .ending {
     margin-bottom: 24%;
   }
 
-  .text-button {
+  a {
     background: none;
     text-decoration: none;
     padding: 20px 0;
