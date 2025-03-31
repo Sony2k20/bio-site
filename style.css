@@ -19,6 +19,7 @@ body {
   color: #f4f0f7;
   font-family: Aileron;
   max-height: 100vh; 
+  min-height: 100vh; 
   margin: 0;
   overflow: hidden; 
   display: flex;
