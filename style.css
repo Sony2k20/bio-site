@@ -52,10 +52,10 @@ body {
     z-index: 999 !important;
     padding-top: 9%;
     margin: 0;
-    font-size: 40px;
+    font-size: 32px;
     text-align: center;
     font-family: Stigsa;
-    line-height: 56px;
+    line-height: 44px;
     letter-spacing: 2px;
     font-weight: lighter;
     text-shadow: 1px 1px 2px #8277a3;
@@ -63,7 +63,7 @@ body {
   }
 
   h2 {
-    padding-top: 10%;
+    padding-top: 8%;
     text-transform: uppercase;
     letter-spacing: 2.5px;
     font-size: 12px;
@@ -79,7 +79,6 @@ body {
 
   .social-link {
     padding-top: 9%;
-    padding-bottom: 6%;
     width: 2.25rem;
     height: 2.25rem;
     border-radius: 50%;
@@ -105,7 +104,7 @@ body {
   }
 
   .line-container {
-    width: 85vw;
+    width: 80vw;
   }
 
   .line-content {
@@ -129,7 +128,7 @@ body {
   a {
     background: none;
     text-decoration: none;
-    padding: 20px 0;
+    padding: 16px 0;
     font-family: Aileron;
     color: inherit;
     cursor: pointer;
@@ -150,7 +149,7 @@ body {
 @media (min-width: 500px) {
   body {
     .line-container {
-      width: 300px;
+      width: 270px;
     }
   }
 }
